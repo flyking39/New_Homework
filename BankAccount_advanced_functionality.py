@@ -119,9 +119,3 @@ def financial_operations(account_number: int):
 
 
 identification()
-# inquire the matter with additional condition in function while entrance
-#  possible ways to simplify the code
-# except with personal exception
-# make files with recent notifications regarding any implemented transactions
-# add exception for self input
-# follow up what file tell means!!!
